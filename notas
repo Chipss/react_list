@@ -1,0 +1,9 @@
+Este es la mejor manera de iniciar el proyecto. 
+
+files: 
+src: app.js, index.css, index.js
+public: index.html
+
+Crer repositorio en github (recomendado repasar en consola)
+desde la pagina de github se puede hacer un repositorio y literalmente jalar los archivos a la pagina para hacer el repositorio, después solamente en la desktop app se hace el fech y el pull.
+
